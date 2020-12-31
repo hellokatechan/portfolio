@@ -2,4 +2,5 @@ I created this space to showcase all the projects(big and small) that I've worke
 | Project Name | Description | Date |
 | --------------- | --------------- | --------------- |
 | LOS | A data cleaning project with more than 4 million rows. The goal of this project is to have one LOS (learning outcome statement) per row. | Oct 2020  |
-| Course Catalog  | A web scraping project with the goal to create a dataframe where program manager can query the courses that are required for a specific program.  | Nov 2020 |
+| Course Catalog | A web scraping project with the goal to create a dataframe where program manager can query the courses that are required for a specific program.  | Nov 2020 |
+| Course Catalog Part 1 | I'm interested in knowing which courses overlap between programs. For example, I've noticed that students in MS in Informatics can take Intermediate Analytics as part of their program requirments. I want to see if between which two programs share the most courses | Dec 2020
